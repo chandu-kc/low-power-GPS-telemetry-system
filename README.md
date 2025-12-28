@@ -113,9 +113,9 @@ low-power-gps-telemetry/
 │   └── gps_transmission_log.txt
 ├── README.md
 └── LICENSE
-
 ```
-### Testing & Validation
+
+## Testing & Validation
 
 Current consumption measured using multimeter and nRF PPK (Power Profiler Kit)
 
@@ -126,7 +126,7 @@ GPS acquisition validated outdoors
 Wake-up interval verified using RTC timing
 
 
-### Industrial Relevance
+## Industrial Relevance
 
 Asset tracking devices
 
@@ -139,13 +139,13 @@ Low-power embedded designs
 Field-deployed monitoring devices
 
 
-### Disclaimer
+## Disclaimer
 
 This project is developed for learning and demonstration purposes only.
 No proprietary or confidential company code is included.
 
 
-### Author
+## Author
 Chandan K C
 Embedded Systems Engineer
 Expertise in STM32, Low-Power Design, GPS, UART, and Embedded C
