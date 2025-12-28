@@ -113,8 +113,9 @@ low-power-gps-telemetry/
 │   └── gps_transmission_log.txt
 ├── README.md
 └── LICENSE
-```
 
+```
+---
 ## Testing & Validation
 
 Current consumption measured using multimeter and nRF PPK (Power Profiler Kit)
@@ -125,6 +126,7 @@ GPS acquisition validated outdoors
 
 Wake-up interval verified using RTC timing
 
+---
 
 ## Industrial Relevance
 
@@ -138,12 +140,13 @@ Low-power embedded designs
 
 Field-deployed monitoring devices
 
-
+---
 ## Disclaimer
 
 This project is developed for learning and demonstration purposes only.
 No proprietary or confidential company code is included.
 
+---
 
 ## Author
 Chandan K C
