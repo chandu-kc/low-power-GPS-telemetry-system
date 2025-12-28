@@ -76,8 +76,6 @@ CHARGE : 68.50 mC
 - GPS acquisition shows moderate current consumption
 - Sleep mode contributes negligible current
 
-### Current vs Time Plot
-![Current Profile](images/current_profile.png)
 
 ---
 

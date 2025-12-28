@@ -101,15 +101,15 @@ Sleep current | ~200 µA |
 
 ```
 low-power-gps-telemetry/
-├── firmware/
+├── firmware/(Low-Power-GPS-Telemetry-System)
 │   ├── Core/
-│   ├── Drivers/
-│   ├── state_machine.c
-│   └── main.c
+│      ├── Drivers/
+│      └── main.c
 ├── docs/
 │   └── power_measurement.md
 ├── images/
 │   └── system_block_diagram.png
+|   └── prototype_basic.jfif
 ├── logs/
 │   └── gps_transmission_log.txt
 ├── README.md
