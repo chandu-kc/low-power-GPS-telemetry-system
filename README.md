@@ -111,7 +111,7 @@ low-power-gps-telemetry/
 │   └── system_block_diagram.png
 |   └── prototype_basic.jfif
 ├── logs/
-│   └── gps_transmission_log.txt
+│   └── gps_transmission_log_img
 ├── README.md
 └── LICENSE
 
