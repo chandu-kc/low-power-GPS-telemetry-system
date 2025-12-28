@@ -1,0 +1,2 @@
+mqtt_machine_file.c:26:5:mqtt_machine	160	static
+mqtt_machine_file.c:135:5:mqtt_Response	8	static

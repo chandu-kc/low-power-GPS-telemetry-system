@@ -65,8 +65,9 @@ This approach ensures:
 - RTC used for timed wake-up
 
 ### Achieved Performance
+- **One Complete Cycle IN**: ~**312 mA**
 - **Sleep current**: ~**200 µA**
-- **Active duration**: Only during GPS acquisition and transmission
+- **Active duration**: Only during GPS acquisition and    transmission
 - **Duty cycle optimized** for maximum battery life
 
 ---

@@ -1,0 +1,2 @@
+random.c:14:6:USB_ACTIVE	8	static
+random.c:39:6:USB_SLEEP_MODE	8	static
